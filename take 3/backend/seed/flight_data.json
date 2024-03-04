@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "flight_number": "FI360",
+    "departure_airport": "JFK International Airport, New York",
+    "arrival_airport": "Los Angeles International Airport, Los Angeles",
+    "departure_time": "2023-05-01T06:00:00Z",
+    "arrival_time": "2023-05-01T09:00:00Z",
+    "airline": "American Airlines"
+  },
+  {
+    "id": 2,
+    "flight_number": "DL456",
+    "departure_airport": "Hartsfield-Jackson Atlanta International Airport, Atlanta",
+    "arrival_airport": "Heathrow Airport, London",
+    "departure_time": "2023-05-02T16:00:00Z",
+    "arrival_time": "2023-05-03T06:00:00Z",
+    "airline": "Delta Airlines"
+  },
+  {
+    "id": 3,
+    "flight_number": "UA789",
+    "departure_airport": "O'Hare International Airport, Chicago",
+    "arrival_airport": "Narita International Airport, Tokyo",
+    "departure_time": "2023-05-04T11:00:00Z",
+    "arrival_time": "2023-05-05T15:00:00Z",
+    "airline": "United Airlines"
+  },
+  {
+    "id": 4,
+    "flight_number": "SW123",
+    "departure_airport": "Denver International Airport, Denver",
+    "arrival_airport": "McCarran International Airport, Las Vegas",
+    "departure_time": "2023-05-06T13:00:00Z",
+    "arrival_time": "2023-05-06T14:30:00Z",
+    "airline": "Southwest Airlines"
+  },
+  {
+    "id": 5,
+    "flight_number": "BA456",
+    "departure_airport": "Charles de Gaulle Airport, Paris",
+    "arrival_airport": "John F. Kennedy International Airport, New York",
+    "departure_time": "2023-05-07T09:00:00Z",
+    "arrival_time": "2023-05-07T11:00:00Z",
+    "airline": "British Airways"
+  }
+]
